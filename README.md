@@ -1,10 +1,5 @@
 # نظام المصادقة الطلابي (MVC + Repository)
 
-## التشغيل
-1. flutter create auth_mvc
-2. احذف lib/ الافتراضي وانسخ مجلد lib/ من هذا المشروع مكانه
-3. flutter run
-
 لا توجد أي حزم خارجية. (يتطلب Flutter 3.10 أو أحدث بسبب ListenableBuilder)
 
 ## بيانات تجريبية
